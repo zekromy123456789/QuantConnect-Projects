@@ -1,0 +1,15 @@
+{
+    "versions": [
+        {
+            "id": 16446,
+            "created": "2024-05-22 21:00:47",
+            "description": "Upgrades to backend QuantConnect operations",
+            "leanHash": "5f3cd203d3bed221c046ea27940ab97940b88101",
+            "leanCloudHash": "2c0104c93abc7e3fcc8316dbb1d2f33c390dcd0d",
+            "name": "master",
+            "ref": "refs/heads/master",
+            "public": true
+        }
+    ],
+    "success": true
+}
