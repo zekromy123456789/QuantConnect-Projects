@@ -2,6 +2,7 @@
     "user": {
         "profile": "default.jpg",
         "badge": null,
+        "public_id": "daniel-yadgarov",
         "name": "Daniel Yadgarov",
         "email": "danielyadgarov55@gmail.com",
         "type": "user",
@@ -32,14 +33,14 @@
             "Can share discussions to social QuantConnect social media": false,
             "Can update and close data issues": false,
             "Can provide advance support to user": false,
-            "Promotional Backtests": true
+            "Promotional Backtests": false
         },
         "email_verified": 1,
         "autocomplete_enabled": 1,
         "channel": "U282204-224d2e9d0289673ad88464b1589b6d9388f80d7a5d493d9cbefe34b0736c3294",
-        "etheme": "chrome",
+        "etheme": "darkly",
         "language": "en",
-        "public_id": "daniel-yadgarov",
+        "publicId": "daniel-yadgarov",
         "preferred_language": "Py",
         "beta_features": 1,
         "redirect": null,
@@ -50,9 +51,7 @@
             "createProject": true,
             "backtestProject": true,
             "liveDeployProject": false
-        },
-        "id": 282204,
-        "token": "dd66ebe65697a4b87c406e2d632848b623a387858d9128567378ff44136c609a"
+        }
     },
     "success": true
 }

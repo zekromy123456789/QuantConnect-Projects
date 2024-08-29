@@ -5,14 +5,27 @@
             "name": "Foundation Default",
             "path": null,
             "description": "Default core foundation for LEAN baking in the most of the popular libraries for quantitative analysis.",
-            "public": 1
+            "public": 1,
+            "cloud": 1,
+            "local": 1
         },
         {
             "id": 5,
             "name": "Foundation Autokeras",
             "path": "/Foundation-Autokeras",
             "description": "A backwards compatability environment for compatibility with Keras < 3, and TF 2.14.1, and Pydantic<2",
-            "public": 1
+            "public": 1,
+            "cloud": 1,
+            "local": 0
+        },
+        {
+            "id": 6,
+            "name": "Foundation Autogluon",
+            "path": "/Foundation-Autogluon",
+            "description": "Foundation including the Autogluon package for LLM training.",
+            "public": 1,
+            "cloud": 1,
+            "local": 0
         }
     ],
     "success": true

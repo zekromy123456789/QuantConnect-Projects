@@ -82,15 +82,15 @@
             },
             {
                 "name": "Lines",
-                "value": "51"
+                "value": "177"
             },
             {
                 "name": "Projects",
-                "value": "1"
+                "value": "3"
             },
             {
                 "name": "Backtests",
-                "value": "7"
+                "value": "23"
             },
             {
                 "name": "Members",
@@ -221,7 +221,7 @@
                 "editable": false,
                 "support": null,
                 "linkedin": null,
-                "lastLoginTimestamp": "2024-05-24 00:51:34",
+                "lastLoginTimestamp": "2024-08-29 10:55:26",
                 "email": "danielyadgarov55@gmail.com",
                 "profileUrl": "/u/daniel-yadgarov",
                 "publicId": "daniel-yadgarov",
@@ -341,7 +341,10 @@
         "hasCardOnFile": true,
         "joinOrganizationLink": "https://www.quantconnect.com/invite?t=organization&o=5be1cc957d85b01c3f026dce89e1c6cb&k=0759659312ade00852cadc9624fe53a12079e4a2",
         "outOfSampleDays": 90,
-        "trial": null
+        "trial": null,
+        "contracts": {
+            "institution": null
+        }
     },
     "success": true
 }
